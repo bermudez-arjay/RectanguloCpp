@@ -1,0 +1,6 @@
+projectKey=rectangulo_project
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=rectangulo_project
+ceTaskId=dc5ff5c2-c523-44b3-b4a4-354e73a73fd0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dc5ff5c2-c523-44b3-b4a4-354e73a73fd0
